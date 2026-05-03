@@ -433,7 +433,7 @@ export const giras: Array<Gira> = [
     exibirNoHero: false,
   },
   {
-    titulo: "Gira interna, sem atendimento ao público",
+    titulo: "Gira interna, sem atendimento ao público.",
     day: 5,
     month: "Maio",
     year: 2026,
@@ -441,7 +441,7 @@ export const giras: Array<Gira> = [
     exibirNoHero: false,
   },
   {
-    titulo: "Gira interna, sem atendimento ao público",
+    titulo: "Gira interna, sem atendimento ao público.",
     day: 7,
     month: "Maio",
     year: 2026,
@@ -449,7 +449,7 @@ export const giras: Array<Gira> = [
     exibirNoHero: false,
   },
   {
-    titulo: "Gira interna, sem atendimento ao público",
+    titulo: "Gira interna, sem atendimento ao público.",
     day: 12,
     month: "Maio",
     year: 2026,
@@ -457,7 +457,7 @@ export const giras: Array<Gira> = [
     exibirNoHero: false,
   },
   {
-    titulo: "Gira interna, sem atendimento ao público",
+    titulo: "Gira interna, sem atendimento ao público.",
     day: 14,
     month: "Maio",
     year: 2026,
