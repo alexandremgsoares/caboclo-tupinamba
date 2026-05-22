@@ -489,6 +489,14 @@ export const giras: Array<Gira> = [
     exibirNoHero: false,
   },
   {
+    titulo: "Acampamento Noite de Luar",
+    day: 3,
+    month: "Junho",
+    year: 2026,
+    monthIndex: 6,
+    exibirNoHero: false,
+  },
+  {
     titulo: "Gira com Boiadeiros, Marinheiros e Caboclos",
     day: 9,
     month: "Junho",
