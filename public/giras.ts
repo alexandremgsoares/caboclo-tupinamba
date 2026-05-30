@@ -521,7 +521,7 @@ export const giras: Array<Gira> = [
     exibirNoHero: false,
   },
   {
-    titulo: "Gira com Pretos Velhos",
+    titulo: "Gira com Exus e Pomba Giras",
     day: 23,
     month: "Junho",
     year: 2026,
@@ -529,7 +529,7 @@ export const giras: Array<Gira> = [
     exibirNoHero: true,
   },
   {
-    titulo: "Gira com Exus e Pomba Giras",
+    titulo: "Gira com Pretos Velhos",
     day: 30,
     month: "Junho",
     year: 2026,
