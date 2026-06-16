@@ -141,6 +141,11 @@ export const bibliotecaLivros: Livro[] = [
     autor: "Allan Kardec",
   },
   {
+    item: "26 C",
+    titulo: "O Livro dos Espíritos",
+    autor: "Allan Kardec",
+  },
+  {
     item: "27 A",
     titulo: "O livro dos Médiuns",
     autor: "Allan Kardec",
@@ -148,6 +153,11 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "27 B",
     titulo: "O livro dos Médiuns",
+    autor: "Allan Kardec",
+  },
+  {
+    item: "27 C",
+    titulo: "O Livro dos Médiuns",
     autor: "Allan Kardec",
   },
   {
@@ -703,5 +713,260 @@ export const bibliotecaLivros: Livro[] = [
     item: "131",
     titulo: "Encontro Diário com Deus, 2019",
     autor: "Frei Edrian",
+  },
+  {
+    item: "132",
+    titulo: "Exu Caveira, de Padre a Guardião da Calunga",
+    autor: "Maria Célia Dias da Silva",
+  },
+  {
+    item: "133",
+    titulo: "O Guardião da Meia-Noite",
+    autor: "Rubens Saraceni",
+  },
+  {
+    item: "134",
+    titulo: "Maria Padilha, Segredos da Pomba Gira Menina",
+    autor: "Sebastião Cabral",
+  },
+  {
+    item: "135",
+    titulo: "Exu, Dois Amigos e Uma Luta",
+    autor: "Mighian Danae",
+  },
+  {
+    item: "136",
+    titulo: "Conhecendo os Orixás, de Exu a Oxalá",
+    autor: "Waldete Tristão e Caco Bressane",
+  },
+  {
+    item: "137",
+    titulo: "Vivendo a Mediunidade",
+    autor: "Antônio Baduy Filho",
+  },
+  {
+    item: "138",
+    titulo: "As Dores da Alma",
+    autor: "Francisco do Espírito Santo Neto",
+  },
+  {
+    item: "139",
+    titulo: "Espiritismo e Experiências de Quase Morte",
+    autor: "Geziel Andrade",
+  },
+  {
+    item: "140",
+    titulo: "Aprendendo com os Espíritos",
+    autor: "Álvaro Vargas",
+  },
+  {
+    item: "141",
+    titulo: "Ação e Reação",
+    autor: "Francisco Cândido Xavier",
+  },
+  {
+    item: "142",
+    titulo: "O Perispírito e Suas Modelações",
+    autor: "Luiz Gonzaga Pinheiro",
+  },
+  {
+    item: "143",
+    titulo: "De Emmanuel para os Médiuns",
+    autor: "Luiz Gonzaga Pinheiro",
+  },
+  {
+    item: "144",
+    titulo: "Espiritismo, o Que Deseja Saber?",
+    autor: "Álvaro Vargas",
+  },
+  {
+    item: "145",
+    titulo: "Sem Nunca Dizer Adeus",
+    autor: "Pedro Santiago",
+  },
+  {
+    item: "146",
+    titulo: "Atenção",
+    autor: "Chico Xavier",
+  },
+  {
+    item: "147",
+    titulo: "Esculpindo o Próprio Destino",
+    autor: "André Luiz Ruiz",
+  },
+  {
+    item: "148",
+    titulo: "O Amor É Uma Escolha",
+    autor: "Eliana Machado Coelho",
+  },
+  {
+    item: "149",
+    titulo: "As Curas de Jesus",
+    autor: "Joaquim Bueno Neto",
+  },
+  {
+    item: "150",
+    titulo: "Um Jovem no Além",
+    autor: "Lídia Stoimenoff",
+  },
+  {
+    item: "151",
+    titulo: "Justiça das Aflições",
+    autor: "Amarildo Gasparin",
+  },
+  {
+    item: "152",
+    titulo: "Herdeiros do Novo Mundo",
+    autor: "André Luiz Ruiz",
+  },
+  {
+    item: "153",
+    titulo: "Compromissos de um Coração",
+    autor: "Alceu Costa Filho",
+  },
+  {
+    item: "154",
+    titulo: "Lágrimas e Dramas Deste Mundo",
+    autor: "Padre Dercílio Rodrigues Braga",
+  },
+  {
+    item: "155",
+    titulo: "O Chamado da Borboleta, Ressignificando o Luto",
+    autor: "Dina Fortes",
+  },
+  {
+    item: "156",
+    titulo: "No Silêncio dos Claustros",
+    autor: "Eulália Bueno",
+  },
+  {
+    item: "157",
+    titulo: "Doutor Odilon",
+    autor: "Carlos Bacelli",
+  },
+  {
+    item: "158",
+    titulo: "Um Infinito Renascer",
+    autor: "Alciene Ribeiro",
+  },
+  {
+    item: "159",
+    titulo: "A Vingança do Judeu",
+    autor: "Vera Kryzhanorskaia",
+  },
+  {
+    item: "160",
+    titulo: "Sete Histórias de Pecados, Volume 2, A Gula",
+    autor: "Mônica Aguieiras Cortat",
+  },
+  {
+    item: "161",
+    titulo: "Sete Histórias de Pecados, Volume 3, A Inveja",
+    autor: "Mônica Aguieiras Cortat",
+  },
+  {
+    item: "162",
+    titulo: "O Céu e o Inferno",
+    autor: "Allan Kardec",
+  },
+  {
+    item: "163",
+    titulo: "Obras Póstumas",
+    autor: "Allan Kardec",
+  },
+  {
+    item: "164",
+    titulo: "O Que É o Espiritismo?",
+    autor: "Allan Kardec",
+  },
+  {
+    item: "165",
+    titulo: "Ciclos Emocionais Viciantes",
+    autor: "Roberta Sara",
+  },
+  {
+    item: "166",
+    titulo: "Ensina-nos a Orar",
+    autor: "Djalma Argollo",
+  },
+  {
+    item: "167",
+    titulo: "Tudo Que Seu Coração Precisa Te Falar",
+    autor: "Alexandro Gruber",
+  },
+  {
+    item: "168",
+    titulo: "O Retorno",
+    autor: "Eliana Machado Coelho",
+  },
+  {
+    item: "169",
+    titulo: "Impulsos do Coração",
+    autor: "Mônica de Castro",
+  },
+  {
+    item: "170",
+    titulo: "Amor e Perdão",
+    autor: "Denise Corrêa de Macedo",
+  },
+  {
+    item: "171",
+    titulo: "A Perfeição Nossa de Cada Dia",
+    autor: "Mércia Miranda Vasconcellos",
+  },
+  {
+    item: "172",
+    titulo: "João Uchôa Cavalcanti Netto",
+    autor: "Elias Awad",
+  },
+  {
+    item: "173",
+    titulo: "Esmeralda",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "174",
+    titulo: "Ninguém É de Ninguém",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "175",
+    titulo: "Ela Confiou na Vida",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "176",
+    titulo: "O Morro das Ilusões",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "177",
+    titulo: "Sem Medo de Viver",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "178",
+    titulo: "A Vida Sabe o Que Faz",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "179",
+    titulo: "Quando É Preciso Voltar",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "180",
+    titulo: "Voltas Que a Vida Dá",
+    autor: "Zíbia Gasparetto",
+  },
+  {
+    item: "181",
+    titulo: "O Aleph",
+    autor: "Paulo Coelho",
+  },
+  {
+    item: "182",
+    titulo: "O Diário de um Mago",
+    autor: "Paulo Coelho",
   },
 ];
