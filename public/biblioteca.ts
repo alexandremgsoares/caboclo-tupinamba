@@ -37,7 +37,7 @@ export const bibliotecaLivros: Livro[] = [
   },
   {
     item: "07",
-    titulo: "Legião – Um Olhar sobre reino das sombras",
+    titulo: "Legião – Um Olhar sobre o reino das sombras",
     autor: "Robson Pinheiro (esp. Ângelo Inácio)",
   },
   {
@@ -171,6 +171,11 @@ export const bibliotecaLivros: Livro[] = [
     autor: "Allan Kardec",
   },
   {
+    item: "28 C",
+    titulo: "O Evangelho Segundo o Espiritismo",
+    autor: "Allan Kardec",
+  },
+  {
     item: "29",
     titulo: "Os mortos não morrem",
     autor: "Paiva Netto",
@@ -178,7 +183,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "30",
     titulo: "Pelos caminhos da vida",
-    autor: "Cristina Censon (esp. Danile)",
+    autor: "Cristina Censon (esp. Daniel)",
   },
   {
     item: "31",
@@ -187,18 +192,18 @@ export const bibliotecaLivros: Livro[] = [
   },
   {
     item: "32",
-    titulo: "Nessa Nova Caminhada",
+    titulo: "Nossa Nova Caminhada",
     autor: "Lidiana Betega",
   },
   {
     item: "33",
     titulo: "Vivendo no mundo dos espíritos",
-    autor: "Vera Lucia M. Carvalho (esp Patrícia)",
+    autor: "Vera Lucia M. Carvalho (esp. Patrícia)",
   },
   {
     item: "34",
     titulo: "Elizabetta de La Paz",
-    autor: "Helaine Coutinho Sabbadine (esp. Nathanael)",
+    autor: "Helaine Coutinho Sabbadini (esp. Nathanael)",
   },
   {
     item: "35",
@@ -293,12 +298,12 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "53",
     titulo: "Conhecereis a verdade",
-    autor: "Ricardo Oeste Forni",
+    autor: "Ricardo Orestes Forni",
   },
   {
     item: "54",
     titulo: "Sublime Expiação",
-    autor: "Divaldo Pereira Franco (Victor Hugo)",
+    autor: "Divaldo Pereira Franco (esp. Victor Hugo)",
   },
   {
     item: "55",
@@ -318,7 +323,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "58",
     titulo: "Casulo de segredos",
-    autor: "Elisa Galvão (asp. Adamus)",
+    autor: "Elisa Galvão (esp. Adamus)",
   },
   {
     item: "59",
@@ -328,7 +333,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "60 A",
     titulo: "A Vida Depois da Morte",
-    autor: "Osmar Barbosa",
+    autor: "Osmar Barbosa (esp. Nina Brestonini e Lucas)",
   },
   {
     item: "60 B",
@@ -338,27 +343,27 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "61",
     titulo: "Guardião Exu",
-    autor: "Osmar Barbosa",
+    autor: "Osmar Barbosa (esp. Lucas)",
   },
   {
     item: "62",
     titulo: "Impuros – A Legião de Exus",
-    autor: "Osmar Barbosa",
+    autor: "Osmar Barbosa (esp. Lucas)",
   },
   {
     item: "63",
     titulo: "Colônia Espiritual – Laços Eternos",
-    autor: "Osmar Barbosa",
+    autor: "Osmar Barbosa (esp. Nina Brestonini)",
   },
   {
     item: "64",
     titulo: "Os Viajores – Agentes dos Guardiões ",
-    autor: "Robson Pinheiro",
+    autor: "Robson Pinheiro (esp. Ângelo Inácio)",
   },
   {
     item: "65",
     titulo: "O Reencontro de Heróis – Lutando para Vencer",
-    autor: "João Alberto Teodoro",
+    autor: "João Alberto Teodoro (esp. Frei Antônio Maria)",
   },
   {
     item: "66",
@@ -383,13 +388,13 @@ export const bibliotecaLivros: Livro[] = [
   },
   {
     item: "70",
-    titulo: "A Missão dos 70 e o Lobo Invisível ",
+    titulo: "A Missão dos Setenta e o Lobo Invisível ",
     autor: "Paiva Netto",
   },
   {
     item: "71",
     titulo: "Senhor Exu Calunga, um guardião da lei na Umbanda ",
-    autor: "José Augusto Barboza",
+    autor: 'José Augusto Barboza (esp. "M.S.L")',
   },
   {
     item: "72",
@@ -404,7 +409,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "74",
     titulo: "Desenvolvimento Mediúnico, Mediunidade Prática",
-    autor: "Edgar Armond",
+    autor: "Edgard Armond",
   },
   {
     item: "75",
@@ -414,7 +419,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "76",
     titulo: "Senhor Exu Calunga, um guardião da Lei na Umbanda",
-    autor: "José Augusto Barboza",
+    autor: 'José Augusto Barboza (esp. "MSL")',
   },
   {
     item: "77",
@@ -584,7 +589,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "106",
     titulo: "O Anfitrião do Campo Santo",
-    autor: "André Cozta (esp. Senhor Exu Caveira)",
+    autor: "André Cozta (pelo Senhor Exu Caveira)",
   },
   {
     item: "107",
@@ -670,19 +675,24 @@ export const bibliotecaLivros: Livro[] = [
     autor: "Janaína Azevedo Corral",
   },
   {
-    item: "123",
+    item: "123 A",
     titulo: "Sem Medo de Viver",
-    autor: "Zíbia Gasparetto",
+    autor: "Zíbia Gasparetto (esp. Lucius)",
+  },
+  {
+    item: "123 B",
+    titulo: "Sem Medo de Viver",
+    autor: "Zíbia Gasparetto (esp. Lucius)",
   },
   {
     item: "124",
     titulo: "Tudo Tem Seu Preço",
-    autor: "Zíbia Gasparetto",
+    autor: "Zíbia Gasparetto (esp. Lucius)",
   },
   {
     item: "125",
     titulo: "A Vida Sabe O Que Faz",
-    autor: "Zíbia Gasparetto",
+    autor: "Zíbia Gasparetto (esp. Lucius)",
   },
   {
     item: "126",
@@ -697,7 +707,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "128",
     titulo: "Além do Infinito Azul",
-    autor: "Antônio Demarchi",
+    autor: "Antônio Demarchi (esp. Irmão Virgílio)",
   },
   {
     item: "129",
@@ -706,7 +716,7 @@ export const bibliotecaLivros: Livro[] = [
   },
   {
     item: "130",
-    titulo: "Oração de São Francisco",
+    titulo: "A Oração de São Francisco",
     autor: "Anderson Cavalcante e Gabriel Perissé",
   },
   {
@@ -717,12 +727,12 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "132",
     titulo: "Exu Caveira, de Padre a Guardião da Calunga",
-    autor: "Maria Célia Dias da Silva",
+    autor: "Maria Célia Dias da Silva (esp. Ramon de Bonvivary)",
   },
   {
     item: "133",
     titulo: "O Guardião da Meia-Noite",
-    autor: "Rubens Saraceni",
+    autor: "Rubens Saraceni (esp. Pai Benedito de Aruanda)",
   },
   {
     item: "134",
@@ -742,12 +752,17 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "137",
     titulo: "Vivendo a Mediunidade",
-    autor: "Antônio Baduy Filho",
+    autor: "Antônio Baduy Filho (esp. André Luiz)",
   },
   {
-    item: "138",
+    item: "138 A",
     titulo: "As Dores da Alma",
-    autor: "Francisco do Espírito Santo Neto",
+    autor: "Francisco do Espírito Santo Neto (esp. Hammed)",
+  },
+  {
+    item: "138 B",
+    titulo: "As Dores da Alma",
+    autor: "Francisco do Espírito Santo Neto (esp. Hammed)",
   },
   {
     item: "139",
@@ -762,7 +777,7 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "141",
     titulo: "Ação e Reação",
-    autor: "Francisco Cândido Xavier",
+    autor: "Francisco Cândido Xavier (esp. André Luiz)",
   },
   {
     item: "142",
@@ -782,22 +797,22 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "145",
     titulo: "Sem Nunca Dizer Adeus",
-    autor: "Pedro Santiago",
+    autor: "Pedro Santiago (esp. Dizzi Akibah)",
   },
   {
     item: "146",
     titulo: "Atenção",
-    autor: "Chico Xavier",
+    autor: "Chico Xavier (esp. Emmanuel)",
   },
   {
     item: "147",
     titulo: "Esculpindo o Próprio Destino",
-    autor: "André Luiz Ruiz",
+    autor: "André Luiz Ruiz (esp. Lucius)",
   },
   {
     item: "148",
     titulo: "O Amor É Uma Escolha",
-    autor: "Eliana Machado Coelho",
+    autor: "Eliana Machado Coelho (esp. Schellida)",
   },
   {
     item: "149",
@@ -807,22 +822,22 @@ export const bibliotecaLivros: Livro[] = [
   {
     item: "150",
     titulo: "Um Jovem no Além",
-    autor: "Lídia Stoimenoff",
+    autor: "Lídia Stoimenoff (esp. Henrique)",
   },
   {
     item: "151",
     titulo: "Justiça das Aflições",
-    autor: "Amarildo Gasparin",
+    autor: "Amarildo Gasparin (Irmão Salustiano)",
   },
   {
     item: "152",
     titulo: "Herdeiros do Novo Mundo",
-    autor: "André Luiz Ruiz",
+    autor: "André Luiz Ruiz (esp. Lucius)",
   },
   {
     item: "153",
     titulo: "Compromissos de um Coração",
-    autor: "Alceu Costa Filho",
+    autor: "Alceu Costa Filho (esp. Nina Arueira)",
   },
   {
     item: "154",
@@ -941,7 +956,7 @@ export const bibliotecaLivros: Livro[] = [
   },
   {
     item: "177",
-    titulo: "Sem Medo de Viver",
+    titulo: "Herdeiros do Novo Mundo",
     autor: "Zíbia Gasparetto",
   },
   {
@@ -968,5 +983,200 @@ export const bibliotecaLivros: Livro[] = [
     item: "182",
     titulo: "O Diário de um Mago",
     autor: "Paulo Coelho",
+  },
+  {
+    item: "183",
+    titulo: "Catecismo do Umbandista",
+    autor: "Pompílio Possera de Eufrazio",
+  },
+  {
+    item: "184",
+    titulo: "Senzala",
+    autor: "Salvador Gentile",
+  },
+  {
+    item: "185",
+    titulo: "Cartas de uma Morta",
+    autor: "Francisco Cândido Xavier (esp. Maria João de Deus)",
+  },
+  {
+    item: "186",
+    titulo: "Jesus no Lar",
+    autor: "Chico Xavier (esp. Neio Lúcio)",
+  },
+  {
+    item: "187",
+    titulo: "Game Over",
+    autor: "Adeilson Salles (esp. Luiz Sérgio)",
+  },
+  {
+    item: "188",
+    titulo: "Jesus, Núcleo Comum, Volume 3",
+    autor: "Ed. Auta de Souza",
+  },
+  {
+    item: "189",
+    titulo: "Manual Desenvolvimento Mediúnico, Vibração",
+    autor: "Ed. Auta de Souza",
+  },
+  {
+    item: "190",
+    titulo: "A Evangelização no Mais Além",
+    autor: "Janaína Farias",
+  },
+  {
+    item: "191",
+    titulo: "Deixe-me Partir",
+    autor: "Tânia Fernandes de Carvalho",
+  },
+  {
+    item: "192",
+    titulo: "O Homem que Falava com Espíritos",
+    autor: "Luís Eduardo de Souza",
+  },
+  {
+    item: "193",
+    titulo: "A Grande Espera",
+    autor: "Corina Novelino (esp. Eurípedes Barsanulfo)",
+  },
+  {
+    item: "194",
+    titulo: "Turma do Bem",
+    autor: "Denise Rodrigues",
+  },
+  {
+    item: "195",
+    titulo: "Letras de Luz",
+    autor: "Autores Diversos",
+  },
+  {
+    item: "196",
+    titulo: "Não Matarás, Valorizando a Vida",
+    autor: "Ed. Auta de Souza",
+  },
+  {
+    item: "197",
+    titulo: "Campanha da Fraternidade Auta de Souza para Crianças",
+    autor: "Ed. Auta de Souza",
+  },
+  {
+    item: "198",
+    titulo: "Síntese Doutrinária",
+    autor: "Concafras 2024",
+  },
+  {
+    item: "199",
+    titulo: "Só o Amor Liberta",
+    autor: "Célia Xavier de Camargo (esp. Paulo Hertz)",
+  },
+  {
+    item: "200",
+    titulo: "O Abridor de Latas",
+    autor: "Wilson Frungilo Júnior",
+  },
+  {
+    item: "201",
+    titulo: "Bairro dos Estranhos",
+    autor: "Wilson Frungilo Júnior",
+  },
+  {
+    item: "202",
+    titulo: "O Morro dos Ventos",
+    autor: "Vera Lúcia Marinzeck de Carvalho (esp. Antônio Carlos)",
+  },
+  {
+    item: "203",
+    titulo: "De Volta ao Passado",
+    autor: "Célia Xavier Camargo (esp. César Augusto Melero)",
+  },
+  {
+    item: "204",
+    titulo: "Depressão: Uma História de Superação",
+    autor: "Richard Simonetti",
+  },
+  {
+    item: "205",
+    titulo: "A Feira dos Casamentos",
+    autor: "J. W. Rochester / Vera Kryzhanovskaia",
+  },
+  {
+    item: "206",
+    titulo: "Confissões de um Sacerdote",
+    autor: "Dineu de Paula (esp. Padre José Maria)",
+  },
+  {
+    item: "207",
+    titulo: "Quando o Amor e o Destino Se Encontram",
+    autor: "Izabel Gomes",
+  },
+  {
+    item: "208",
+    titulo: "O Solar de Apolo",
+    autor: "Zilda Gama (esp. Victor Hugo)",
+  },
+  {
+    item: "209",
+    titulo: "De Frente com a Verdade",
+    autor: "Mônica de Castro (esp. Leonel)",
+  },
+  {
+    item: "210",
+    titulo: "Um Fantasma em Londres",
+    autor: "Sarah Kilimanjaro (esp. Vinícius)",
+  },
+  {
+    item: "211",
+    titulo: "Chão de Estrelas",
+    autor: "Amílcar Del Chiaro Filho",
+  },
+  {
+    item: "212",
+    titulo: "O Mosteiro de São Jerônimo",
+    autor: "Valter Turini (esp. Monsenhor Eusébio Sintra)",
+  },
+  {
+    item: "213",
+    titulo: "Distante de Deus",
+    autor: "Nadir Gomes (esp. Fábio)",
+  },
+  {
+    item: "214",
+    titulo: "O Coração de Uma Mulher",
+    autor: "Dineu de Paula (esp. Ernestina)",
+  },
+  {
+    item: "215",
+    titulo: "Meu Filho",
+    autor: "Wanda A. Canutti (esp. Eça de Queiroz)",
+  },
+  {
+    item: "216",
+    titulo: "O Pequeno Médium",
+    autor: "Roberto de Carvalho (esp. Basílio)",
+  },
+  {
+    item: "217",
+    titulo: "Sementes do Amor Divino",
+    autor: "Alda Maria (Irmã Tereza e equipe)",
+  },
+  {
+    item: "218",
+    titulo: "Simão Pedro e os Primeiros Cristãos",
+    autor: "Léa Caruso (esp. José)",
+  },
+  {
+    item: "219 A",
+    titulo: "Diálogos com Exu Mirim",
+    autor: "Fabiana Souza, Ary Antônio Todaro Jr, Nabil Onaissi",
+  },
+  {
+    item: "219 B",
+    titulo: "Diálogos com Exu Mirim",
+    autor: "Fabiana Souza, Ary Antônio Todaro Jr, Nabil Onaissi",
+  },
+  {
+    item: "220",
+    titulo: "Umbandas: uma história do Brasil",
+    autor: "Luiz Antônio Simas",
   },
 ];
