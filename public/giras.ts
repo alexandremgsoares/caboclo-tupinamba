@@ -766,7 +766,7 @@ export const giras: Array<Gira> = [
     month: "Dezembro",
     year: 2026,
     monthIndex: 12,
-    exibirNoHero: true,
+    exibirNoHero: false,
   },
   {
     titulo: "Recesso",
@@ -774,7 +774,7 @@ export const giras: Array<Gira> = [
     month: "Dezembro",
     year: 2026,
     monthIndex: 12,
-    exibirNoHero: true,
+    exibirNoHero: false,
   },
   {
     titulo: "Recesso",
@@ -782,7 +782,7 @@ export const giras: Array<Gira> = [
     month: "Dezembro",
     year: 2026,
     monthIndex: 12,
-    exibirNoHero: true,
+    exibirNoHero: false,
   },
   {
     titulo: "Recesso",
@@ -790,7 +790,7 @@ export const giras: Array<Gira> = [
     month: "Dezembro",
     year: 2026,
     monthIndex: 12,
-    exibirNoHero: true,
+    exibirNoHero: false,
   },
   {
     titulo: "Recesso",
@@ -798,10 +798,10 @@ export const giras: Array<Gira> = [
     month: "Dezembro",
     year: 2026,
     monthIndex: 12,
-    exibirNoHero: true,
+    exibirNoHero: false,
   },
   {
-    titulo: "Retorno das giras",
+    titulo: "Retorno das giras, após o recesso",
     day: 19,
     month: "Janeiro",
     year: 2027,
