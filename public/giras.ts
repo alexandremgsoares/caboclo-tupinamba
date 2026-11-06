@@ -753,7 +753,7 @@ export const giras: Array<Gira> = [
     exibirNoHero: true,
   },
   {
-    titulo: "Gira com Boiadeiros, Caboclos e Marinheiros",
+    titulo: "Gira com Exus e Pomba Giras",
     day: 24,
     month: "Novembro",
     year: 2026,
